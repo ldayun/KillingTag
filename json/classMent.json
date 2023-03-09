@@ -1,0 +1,22 @@
+[
+	{
+		"info" : "2학년 교실 중에서는 여기만 열려있는 건가..",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "2분단 2번째 자리를 찾으시오",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "뭐야?",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "시계? 폰 없어서 시간도 못 봤는데..!다행이다...",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	}
+]

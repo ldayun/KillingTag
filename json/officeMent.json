@@ -1,0 +1,28 @@
+[
+	{
+		"info" : "교무실에는 도구가 있지 않을까..\n예를 들면 보건실 열쇠같은거...",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "열려있네..어디 쓸만한 도구가 있나...\n선생님들 자리에는 뭔가 쓸만한 게 있지 않을까.",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "'그 신의 이름은 아브라삭스'",
+		"info2" : "잠겨있어. 뭐지 저 글자는..\n자물쇠 힌트인가..",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "다이어리?\n뭐야, 필요한 도구가 아니었네..",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "[다이어리 획득]",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	}
+]

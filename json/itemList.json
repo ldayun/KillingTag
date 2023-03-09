@@ -1,0 +1,67 @@
+[
+	{
+		"name" : "붕대",
+		"image" : "image/bandage.png",
+		"intro" : "[살인마와 만났을 때 상처를 치료할 수 있다.]"
+	},
+	{
+		"name" : "방송실 열쇠",
+		"image" : "image/studioKey.png",
+		"intro" : "[방송실 문을 열 수 있는 열쇠]"
+	},
+	{
+		"name" : "인형키링",
+		"image" : "image/keyring.png",
+		"intro" : "[누군가 떨어트린 키링이지만 어딘가 어색하다.]"
+	},
+	{
+		"name" : "고장난 마이크",
+		"image" : "image/mike.png",
+		"intro" : "[소리가 나오지 않는 마이크]"
+	},
+	{
+		"name" : "가위",
+		"image" : "image/scissors.png",
+		"intro" : "[어떤 것을 자를 수 있는 가위]"
+	},
+	{
+		"name" : "시계",
+		"image" : "image/watch.png",
+		"intro" : "[지금 시간을 알려준다.]"
+	},
+	{
+		"name" : "보건실 열쇠",
+		"image" : "image/healthRoomKey.png",
+		"intro" : "[보건실 문을 열 수 있는 열쇠]"
+	},
+	{
+		"name" : "교문 열쇠",
+		"image" : "image/gateKey.png",
+		"intro" : "[중앙 현관을 열 수 있는 열쇠]"
+	},
+	{
+		"name" : "쇠 절단기",
+		"image" : "image/cutter.png",
+		"intro" : "[쇠로 만들어진 물품을 자를 수 있다.]"
+	},
+	{
+		"name" : "체육준비실 열쇠",
+		"image" : "image/gymKey.png",
+		"intro" : "[체육준비실 문을 열 수 있는 열쇠]"
+	},
+	{
+		"name" : "빠루",
+		"image" : "image/weapon.png",
+		"intro" : "[살인마에게 위협을 줄 수 있는 무기]"
+	},
+	{
+		"name" : "다이어리",
+		"image" : "image/diary.png",
+		"intro" : "[선생님의 이야기가 담겨있다.]"
+	},
+	{
+		"name" : "실험준비실 열쇠",
+		"image" : "image/key.png",
+		"intro" : "[실험준비실 문을 열 수 있는 열쇠]"
+	}
+]

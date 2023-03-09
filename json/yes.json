@@ -1,0 +1,18 @@
+[
+	{
+		"info" : "읽어보자.. 뭐라도 나오겠지",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "내가 마지막으로 나가야하는 장소는....",
+		"info3" : "내가 들어온 출입구..",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "내가 들어온 출입구..",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+]

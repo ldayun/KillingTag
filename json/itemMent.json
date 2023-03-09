@@ -1,0 +1,12 @@
+[
+	{
+		"info" : "[지금 시간을 알려준다.]",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	},
+	{
+		"info" : "[선생님의 이야기가 담겨있다]",
+		"image" : "Image_K/talk.png",
+		"next" : "Image_K/next.png"
+	}
+]
